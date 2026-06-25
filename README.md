@@ -18,34 +18,6 @@
 - Derived actionable business insights
 
 
-### Task 2 – Customer Segmentation
-**Objective:** Segment customers into distinct groups based on purchasing behavior using clustering techniques.
-
-**Tech Used:** Python, Pandas, Scikit-learn, K-Means Clustering, Matplotlib, Seaborn
-
-**Steps:**
-- Loaded and preprocessed customer data
-- Performed feature scaling
-- Applied K-Means clustering
-- Visualized clusters and interpreted each segment
-- Provided business recommendations for each customer group
-
-
-
-### Task 3 – Sentiment Analysis
-**Objective:** Analyze text data to classify sentiments as positive, negative, or neutral.
-
-**Tech Used:** Python, Pandas, NLTK, Scikit-learn, TF-IDF, Matplotlib
-
-**Steps:**
-- Loaded and cleaned the text dataset
-- Applied text preprocessing (tokenization, stopword removal)
-- Used TF-IDF for feature extraction
-- Built a classification model and evaluated accuracy
-- Visualized sentiment distribution
-
-
-
 ### Task 5 – Predicting House Prices with Linear Regression
 **Objective:** Build a regression model to predict house prices based on features like location, size, and amenities.
 
@@ -92,3 +64,27 @@
 - Matplotlib, Seaborn
 - Scikit-learn
 - NLTK / TF-IDF
+
+
+
+### Task 8 – Unveiling the Android App Market: Analyzing Google Play Store Data
+
+**Objective:** Analyze Google Play Store data to understand app market trends, category distribution, ratings, installs, pricing patterns, and user sentiment.
+
+**Tech Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, TextBlob, Jupyter Notebook
+
+**Steps:**
+- Loaded and cleaned Google Play Store datasets
+- Corrected data types and handled missing values
+- Explored app distribution across categories
+- Analyzed ratings, reviews, installs, and app size trends
+- Compared free and paid applications and examined pricing patterns
+- Performed sentiment analysis on user reviews using TextBlob
+- Created visualizations to identify app market trends and user behavior
+- Generated insights and recommendations based on the analysis
+
+## 🛠️ Tools & Technologies
+- Python, Jupyter Notebook
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- TextBlob
